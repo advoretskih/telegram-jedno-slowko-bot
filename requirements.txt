@@ -2,4 +2,4 @@ aiogram==3.3.0
 openai==1.43.0
 apscheduler==3.10.4
 pytz
-
+pydantic==2.13.2
